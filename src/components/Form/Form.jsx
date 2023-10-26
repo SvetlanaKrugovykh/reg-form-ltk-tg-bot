@@ -94,8 +94,8 @@ const Form = () => {
 				onChange={onChangePIB}
 			/>
 			{/* <button 
-				className={'submit'}
-				onClick={onToggleButton}
+				className={'submit'} 
+				onClick={onToggleButton} 
 				> Відправити інформацію на сервер </button> */}
 		</div>
 	);
